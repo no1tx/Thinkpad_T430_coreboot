@@ -6,6 +6,7 @@ Lenovo Thinkpad T430 includes with two SPI flash chips, 4 MB main chip + 8 MB ch
 For flashing coreboot you will need:
 1. Clone repo:
 >git clone https://review.coreboot.org/coreboot.git
+
 NOTE: Coreboot devs recommends use master branch for end-users, and this is obvious because this branch includes latest patches for making build process working, also for better compatibility with hardware.
 
 Then install all needed packages for compiling coreboot toolchain:
